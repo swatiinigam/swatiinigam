@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://swatiiportfolio.netlify.app/](https://swatiiportfolio.netlify.app/)
+- 👨‍💻 My Portfolio [https://swatiiportfolio.netlify.app/](https://swatiiportfolio.netlify.app/)
 
 - 📫 How to reach me **swati.nigam567@gmail.com**
 
@@ -27,5 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swatiinigam&show_icons=true&locale=en&layout=compact" alt="swatiinigam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swatiinigam&" alt="swatiinigam" /></p>
-
 
