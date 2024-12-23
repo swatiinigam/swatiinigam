@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swati.nigam567@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RG8ijb5J2LjdVlUR2VqqFgBbteJVQ-Sm/view?usp=drive_link](https://drive.google.com/file/d/1RG8ijb5J2LjdVlUR2VqqFgBbteJVQ-Sm/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1W8EF_SJ0-cQWeIDyX8PxkU8aw1EpHhTg/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
