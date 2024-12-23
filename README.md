@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiinigam&label=Profile%20views&color=0e75b6&style=flat" alt="swatiinigam" /> </p>
 
-- 🔭 I’m currently working on **Proctoring System**
+
 
 - 🌱 I’m currently learning **Data Science**
 
