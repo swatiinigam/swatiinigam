@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Nigam</h1>
-<h3 align="center">A passionate B.Tech Computer Science Student</h3>
+<h3 align="center">A passionate B.Tech Computer Science Student. I am a final-year Computer Science student at Amity University, Noida, with a passion for problem-solving and building impactful projects. With hands-on experience in software development, web development, and machine learning, I am always eager to learn and grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiinigam&label=Profile%20views&color=0e75b6&style=flat" alt="swatiinigam" /> </p>
 
